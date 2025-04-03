@@ -44,6 +44,7 @@
 <br>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-bhaskaran&theme=dark" alt="akhil-bhaskaran" /></div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akhil-Bhaskaran)
 
 ###
 
