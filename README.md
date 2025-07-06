@@ -30,7 +30,7 @@ const akhil = {
     location: "Kerala, India",
     role: "Mobile App Developer",
     passion: ["Flutter", "Unity", "AI/ML"],
-    currentFocus: "Game Development",
+    currentFocus: "Mobile App Development",
     lifePhilosophy: "Code. Learn. Repeat."
 };
 ```
