@@ -64,10 +64,10 @@ const akhil = {
 
 ### 📊 Skill Levels
 
-<img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Unity-Advanced-purple?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Unity-Beginer-purple?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/Python-Intermediate-green?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Firebase-Advanced-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/Firebase-Beginner-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 
 </div>
 
